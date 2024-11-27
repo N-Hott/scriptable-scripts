@@ -23,10 +23,10 @@ These shortcuts will connect to the imported scripts in the **Scriptable** app. 
 ## Scripts
 
 ### **Control D List All Devices**
-- **Purpose:** Retrieves a list of all devices from Control D.
+- **Purpose:** Retrieves a list of all devices from Control D including any clients in ctrld. Saves in Apple Notes.
 
 ### **Control D Profile Options**
-- **Purpose:** Manages Control D profiles, allowing customization and profile switching.
+- **Purpose:** Lists Control D profiles non default options for a quick look at all Profiles. Saves in Apple Notes.
 
 ---
 
