@@ -1,4 +1,4 @@
-# Scriptable Scripts for Siri Shortcuts
+# Scriptable Scripts for COntrol D api Siri Shortcuts
 
 This repository contains two JavaScript scripts designed for use with the **Scriptable** app. These scripts work seamlessly with Siri Shortcuts to enhance automation using Control D APIs.
 
